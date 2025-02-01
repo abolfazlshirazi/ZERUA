@@ -11,23 +11,12 @@ Zerua is a free, web-based space simulator for modeling satellite orbits and tra
 - 🌍 **3D Interactive Visualization** – Rotate Earth, create orbits, and manipulate objects in real-time.
 - 🛰️ **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
 - 📊 **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
-- 🔗 **Open-Source & Extensible** – Built for the community, with room for enhancements and contributions.
+- 🔗 **Extensible** – Built for the community, with room for enhancements and contributions.
 
 ## Getting Started
 
 ### Prerequisites
-- Node.js & npm (for frontend development)
-- Python (for backend computations, if applicable)
-
-### Installation
-```sh
-git clone https://github.com/yourusername/zerua.git
-cd zerua
-npm install
-npm start
-```
-
-Then, open `http://localhost:3000` in your browser.
+Zerua is an online web-based tool. Users only need a modern web browser to access and use the tool—no installation or additional software required.
 
 ## Contributing
 We welcome contributions! To get started:
@@ -42,7 +31,4 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 - Visit our website: [www.zerua.space](https://www.zerua.space)
 - Join discussions on GitHub Issues
 - Follow us on social media (links to be added)
-
-## License
-Zerua is open-source and distributed under the [MIT License](LICENSE).
 
