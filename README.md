@@ -4,11 +4,11 @@
 [![License](https://img.shields.io/github/license/abolfazlshirazi/zerua)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
 
-Zerua is a free, web-based space simulator for modeling satellite orbits and trajectories. It provides interactive 3D visualizations, real-world satellite data, and advanced orbital mechanics tools—all within an intuitive interface. 
+Zerua is a web-based space simulator for modeling satellite orbits and trajectories. It provides interactive 3D visualizations, real-world satellite data, and advanced orbital mechanics tools—all within an intuitive interface. 
 
 ## Features
 
-- 🌍 **3D Interactive Visualization** – Simulate space trajectories, and manipulate objects in real-time.
+- 🌍 **3D Interactive Visualization** – Simulate space trajectories, and manipulate orbits in real-time.
 - 🛰️ **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
 - 📊 **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
 - 🔗 **Extensible** – Built for the community, with room for enhancements and contributions.
