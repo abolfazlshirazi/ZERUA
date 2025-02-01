@@ -8,10 +8,10 @@ Zerua is a web-based space simulator for modeling satellite orbits and trajector
 
 ## Features
 
-- 🌍 **3D Interactive Visualization** – Simulate space trajectories, and manipulate orbits in real-time.
-- 🛰️ **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
-- 📊 **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
-- 🔗 **Extensible** – Built for the community, with room for enhancements and contributions.
+- **3D Interactive Visualization** – Simulate space trajectories, and manipulate orbits in real-time.
+- **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
+- **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
+- **Extensible** – Built for the community, with room for enhancements and contributions.
 
 ## Getting Started
 
@@ -20,10 +20,10 @@ Zerua is an online web-based tool. Users only need a modern web browser to acces
 
 ## Contributing
 We welcome contributions! To get started:
-1. Fork the repository 🍴
+1. Fork the repository
 2. Create a new branch for your feature or fix
-3. Make your changes and commit them ✨
-4. Open a pull request 📩
+3. Make your changes and commit them
+4. Open a pull request
 
 Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
