@@ -8,7 +8,7 @@ Zerua is a free, web-based space simulator for modeling satellite orbits and tra
 
 ## Features
 
-- 🌍 **3D Interactive Visualization** – Rotate Earth, create orbits, and manipulate objects in real-time.
+- 🌍 **3D Interactive Visualization** – Simulate orbits of real-world satellites, create space trajectories, and manipulate objects in real-time.
 - 🛰️ **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
 - 📊 **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
 - 🔗 **Extensible** – Built for the community, with room for enhancements and contributions.
