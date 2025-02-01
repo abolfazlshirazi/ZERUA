@@ -58,7 +58,7 @@ Zerua is an open project that thrives on the collaboration and expertise of cont
 
 We are excited to have you contribute to Zerua, and no contribution is too small! Every bit of help strengthens the project and brings us closer to our vision.
 
-### Questions?
+## Questions?
 If you have any questions or need further assistance, feel free to open an issue or reach out via email.
 
 
