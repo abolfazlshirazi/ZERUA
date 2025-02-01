@@ -31,6 +31,3 @@ Check out our [CONTRIBUTING](CONTRIBUTING.md) for more details.
 - Visit our website: [www.zerua.space](https://www.zerua.space)
 - Join discussions on GitHub Issues
 - Follow us on social media (links to be added)
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
