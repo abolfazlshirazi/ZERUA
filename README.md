@@ -1,4 +1,4 @@
-# Zerua
+# ZERUA | Online Space Orbit Simulator
 
 [![Website](https://img.shields.io/badge/Website-www.zerua.space-blue)](https://www.zerua.space)
 [![License](https://img.shields.io/github/license/abolfazlshirazi/zerua)](LICENSE)
