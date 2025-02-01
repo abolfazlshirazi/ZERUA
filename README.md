@@ -25,7 +25,7 @@ We welcome contributions! To get started:
 3. Make your changes and commit them
 4. Open a pull request
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+Check out our [CONTRIBUTING](CONTRIBUTING) for more details.
 
 ## Community & Support
 - Visit our website: [www.zerua.space](https://www.zerua.space)
