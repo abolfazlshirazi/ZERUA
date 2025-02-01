@@ -25,7 +25,7 @@ We welcome contributions! To get started:
 3. Make your changes and commit them
 4. Open a pull request
 
-Check out our [CONTRIBUTING](CONTRIBUTING) for more details.
+Check out our [CONTRIBUTING](CONTRIBUTING.md) for more details.
 
 ## Community & Support
 - Visit our website: [www.zerua.space](https://www.zerua.space)
@@ -33,4 +33,4 @@ Check out our [CONTRIBUTING](CONTRIBUTING) for more details.
 - Follow us on social media (links to be added)
 
 ## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
