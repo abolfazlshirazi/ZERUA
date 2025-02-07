@@ -1,22 +1,52 @@
+
 # Contributing to Zerua
 
 Thank you for your interest in contributing to Zerua! We welcome contributions from the community to improve the simulator and add new features. By participating, you agree to follow our contribution guidelines outlined below.
+
+
+
+## Open-Source & Premium Development
+
+Zerua follows a **dual-license model**, meaning contributors have the freedom to contribute to either:
+
+- **Open-Source Features** – These features are freely available under an open-source license, making space simulations accessible to everyone.
+- **Premium Features** – These advanced capabilities are part of Zerua’s commercially licensed version, helping sustain the project and support ongoing development.
+
+### How You Can Contribute
+You can choose to contribute to either or both parts of the project based on your interest:
+
+1. **Open-Source Contributions**  
+   - Develop new features available to all users.  
+   - Report bugs, suggest solutions to optimize performance, and enhance usability.  
+   - Expand the documentation and tutorials.
+
+2. **Premium Feature Development**  
+   - Work on exclusive, high-value features under a commercial license.  
+   - Help build advanced capabilities for professional users.  
+   - Contribute to Zerua’s sustainability through innovation.
 
 ## How to Contribute
 
 We welcome contributions to Zerua! Whether you’re suggesting a new feature, reporting an issue, or helping improve the documentation, your input is valuable to us. Below are the different ways you can contribute to Zerua:
 
-### 1. **Issues**
+### 1. **Development**
+We welcome all developers, space enthusiasts, and open-source contributors to help shape the future of Zerua! Your contributions can make a significant impact on making space simulations more accessible and powerful.
+
+- **Develop New Features** – Contribute new functionalities to enhance Zerua’s capabilities through opening an [Issue](https://github.com/abolfazlshirazi/zerua/issues) with enhancement Tag or reach out via email at contact@zerua.tech
+- **Star & Share the Repository** – Show your support by starring the repo and sharing it with your network.
+- **Test & Provide Feedback** – Use Zerua, test new features, and share feedback to help us refine the tool.
+
+### 2. **Issues**
    - If you encounter a bug or have a feature request, please create an issue in the [Issues](https://github.com/abolfazlshirazi/zerua/issues) section of the repository.
    - You can also create issues to suggest improvements or report problems you have encountered while using Zerua.
    - When creating an issue, be sure to provide a detailed description of the problem or suggestion, and if possible, provide steps to reproduce any bugs.
 
-### 2. **Discussions**
+### 3. **Discussions**
    - Zerua has an open space for conversation through [Discussions](https://github.com/abolfazlshirazi/zerua/discussions). This is a place for more in-depth conversations, asking questions, or sharing ideas.
    - You can suggest new features, ask for feedback, or engage in general discussions about Zerua and space simulation.
    - Whether you're a user, developer, or enthusiast, we encourage you to join the conversation and help shape the future of Zerua!
 
-### 3. **Wiki**
+### 4. **Wiki**
    - If you’d like to contribute to improving Zerua’s documentation or adding tutorials and guides, feel free to edit the [Wiki](https://github.com/abolfazlshirazi/zerua/wiki).
    - Contributions to the Wiki could include anything from explaining how to use Zerua to providing detailed guides on space simulation and orbits. Your contributions will help make Zerua more accessible to users and developers alike!
 
@@ -56,9 +86,15 @@ Zerua is an open project that thrives on the collaboration and expertise of cont
 ### 10. **Simulation Videos**
    - Zerua has a YouTube channel dedicated to simulation videos, satellite orbit propagation, and space-related topics. If you're a content creator, you can help by creating videos, tutorials, or demos that showcase Zerua’s features. Additionally, you can help grow the channel by sharing your videos or suggesting topics for new content.
 
+## Getting Started
 We are excited to have you contribute to Zerua, and no contribution is too small! Every bit of help strengthens the project and brings us closer to our vision.
 
-## Questions?
-If you have any questions or need further assistance, feel free to open an issue or reach out via email.
+- **Check the repository** for open issues and feature requests.
+- **Discuss with the team** if you’re interested in working on premium features.
+- **Submit a pull request** to contribute your improvements.
 
+We welcome all contributions and look forward to building the future of space simulation together!
+
+## Questions?
+If you have any questions or need further assistance, feel free to open an issue or reach out via email at contact@zerua.tech.
 
