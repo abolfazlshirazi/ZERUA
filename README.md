@@ -13,9 +13,7 @@ Zerua is a web-based space simulator for modeling satellite orbits and trajector
 - **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
 - **Extensible** – Built for the community, with room for enhancements and contributions.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 Zerua is an online web-based tool. Users only need a modern web browser to access and use the tool—no installation or additional software required.
 
 ## Contributing
