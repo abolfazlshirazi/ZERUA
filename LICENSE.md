@@ -32,6 +32,8 @@ By contributing to this repository, you agree that:
 - You **cannot include** proprietary or licensed third-party code unless explicitly authorized.
 
 ## 4. Disclaimer
-Zerua is provided **"as is"**, without any express or implied warranties, including but not limited to merchantability or fitness for a particular purpose.
+The **open-source core features** of Zerua are provided **"as is"**, without warranties of any kind, including merchantability or fitness for a particular purpose.  
 
-For any licensing inquiries, please visit **[www.zerua.tech](https://www.zerua.tech)** or email **[contact@zerua.tech](mailto:contact@zerua.tech)**.
+For **premium features**, Zerua Tech provides **regular updates, maintenance, and technical support** as part of the subscription. A **formal Service Level Agreement (SLA)** outlining specific guarantees for premium users will be introduced in the future.  
+
+For any inquiries regarding service reliability and future SLAs, please contact [contact@zerua.tech](mailto:contact@zerua.tech).
