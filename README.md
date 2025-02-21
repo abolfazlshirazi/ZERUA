@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/badge/Website-www.zerua.space-blue)](https://www.zerua.space)
-[![License](https://img.shields.io/github/license/abolfazlshirazi/zerua)](LICENSE.md)
+[![Dual License](https://img.shields.io/badge/License-Dual%3A%20Apache%202.0%20%7C%20Commercial-blueviolet)](LICENSE.md)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
 
 Zerua is a web-based space simulator for modeling satellite orbits and trajectories. It provides interactive 3D visualizations, real-world satellite data, and advanced orbital mechanics tools—all within an intuitive interface. 
@@ -25,3 +25,10 @@ Check out our [CONTRIBUTING](CONTRIBUTING.md) for more details.
 - Visit our website: [www.zerua.space](https://www.zerua.space)
 - Join discussions on GitHub Issues
 - Follow us on social media (links to be added)
+
+## License
+Zerua follows a **dual-license model**:
+- The **core features** are open-source under the [Apache 2.0 License](LICENSE).
+- The **premium features** require a **commercial subscription**.  
+
+See [LICENSE.md](LICENSE.md) for full details.
