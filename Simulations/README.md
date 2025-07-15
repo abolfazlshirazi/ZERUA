@@ -1,3 +1,3 @@
-## Simulations
+# Simulations
 
 Testing!
