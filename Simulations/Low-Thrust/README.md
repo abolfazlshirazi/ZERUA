@@ -1,4 +1,4 @@
-# 🔥 Low-Thrust Spacecraft Transfer Simulations
+# Low-Thrust Spacecraft Transfer Simulations
 
 This folder contains simulation cases for **fuel-optimal, low-thrust orbital transfers** around Earth.
 
