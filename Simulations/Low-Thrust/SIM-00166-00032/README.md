@@ -1,4 +1,4 @@
-# 🚀 Minimum-Fuel Low-Trust Space Trajectory Optimization
+# Minimum-Fuel Low-Trust Space Trajectory Optimization
 
 **Case ID:** `SIM-00166-00032`  
 **Algorithm:** `MFLTOA`
@@ -23,7 +23,7 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 - 🛰 Zerua Tech: [zerua.tech](https://www.zerua.tech)  
 - 💻 GitHub Repository: [github.com/abolfazlshirazi/zerua](https://github.com/abolfazlshirazi/zerua)  
 - 🎥 YouTube Channel: [@ZeruaTech](https://www.youtube.com/@ZeruaTech)  
-- 🎥 YouTube Playlist: [Low-Thrust Space Trajectory Design and Optimization](https://www.youtube.com/playlist?list=PLJMfURpxHVVkWjTQBiavZLb4bVetN_96z)  
+- 🎞 YouTube Playlist: [Low-Thrust Space Trajectory Design and Optimization](https://www.youtube.com/playlist?list=PLJMfURpxHVVkWjTQBiavZLb4bVetN_96z)  
 
 ---
 
