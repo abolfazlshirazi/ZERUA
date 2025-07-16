@@ -1,4 +1,4 @@
-# 🎯 Simulations at ZERUA
+# Simulations at ZERUA
 
 Welcome to the **Simulations** section of the ZERUA platform!  
 This is where we present the results of our large-scale optimization experiments in the form of **visually-rich, AI-optimized spacecraft trajectory simulations**.
