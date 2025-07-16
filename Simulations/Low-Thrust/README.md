@@ -7,7 +7,7 @@ All simulations here are powered by **AI-driven evolutionary algorithms**, devel
 ---
 
 ## 🎥 Playlist:  Low-Thrust Space Trajectory Design and Optimization  
-Each case is featured in a 2–5 minute high-resolution simulation video on our [YouTube playlist](https://www.youtube.com/playlist?list=PLJMfURpxHVVkWjTQBiavZLb4bVetN_96z).
+Each case is featured in a 2–5 minute high-resolution simulation video on our [YouTube playlist (Low-Thrust Space Trajectory Design and Optimization)](https://www.youtube.com/playlist?list=PLJMfURpxHVVkWjTQBiavZLb4bVetN_96z).
 
 ## 📦 Folder Structure
 
