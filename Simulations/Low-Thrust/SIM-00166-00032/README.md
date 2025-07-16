@@ -13,7 +13,7 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 
 ---
 
-🎥 **Watch the simulation video on YouTube: [Minimum-Fuel Low-Trust Space Trajectory Optimization](https://www.youtube.com/watch?v=)**  
+🎥 **Watch the simulation video on YouTube: [Minimum-Fuel Low-Trust Space Trajectory Optimization](https://www.youtube.com/watch?v=hhhhhhhhhh)**  
 📦 Supplementary materials and code are included in this folder.
 
 ---
@@ -33,6 +33,7 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 ---
 
 > #zerua #zeruatech #lowthrusttrajectoryoptimization #fuelefficiency #spacepropulsion #trajectoryoptimization #aiinscience
+
 ### 📱 Follow Us
 - [LinkedIn](https://www.linkedin.com/company/zeruatech)  
 - [Facebook](https://www.facebook.com/zeruatech/)  
