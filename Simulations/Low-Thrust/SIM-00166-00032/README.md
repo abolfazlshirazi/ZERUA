@@ -14,6 +14,12 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 
 ---
 
+<img src="./prev_sim.jpg" alt="Resized Image" style="border-color:#ffffff;border-radius:10px;width:300px;"/>
+<img src="./prev_sat.jpg" alt="Resized Image" style="border-color:#ffffff;border-radius:10px;width:300px;"/>
+<img src="./prev_orb.jpg" alt="Resized Image" style="border-color:#ffffff;border-radius:10px;width:300px;"/>
+
+---
+
 🎥 **Watch the simulation video on YouTube: [Minimum-Fuel Low-Trust Space Trajectory Optimization](https://www.youtube.com/watch?v)**  
 📦 Supplementary materials and code are included in this folder.
 
