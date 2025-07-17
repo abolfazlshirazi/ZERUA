@@ -21,6 +21,8 @@ Zerua is an online web-based tool. Users only need a modern web browser to acces
 
 **ZERUA** repository is the official GitHub home of [ZERUA](https://www.zerua.space), where we merge **astrodynamics**, **AI**, and **evolutionary computation** to push the boundaries of spacecraft trajectory optimization and simulation. This repository hosts a range of simulations related to space engineering and orbital mechanics. Our systems are built for both scientific exploration and educational dissemination.
 
+<img src="./Assets/low-thrust.png" width="100%">
+
 ### 📦 Folder Structure
 
 - [`/Simulations/`](./Simulations)  
