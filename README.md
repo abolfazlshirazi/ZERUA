@@ -7,17 +7,17 @@
 
 Zerua is a web-based space simulator for modeling satellite orbits and trajectories. It provides interactive 3D visualizations, real-world satellite data, and advanced orbital mechanics tools—all within an intuitive interface. 
 
-## Features
+## ✨ Features
 
-- **3D Interactive Visualization** – Simulate space trajectories, and manipulate orbits in real-time.
-- **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
-- **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
-- **Extensible** – Built for the community, with room for enhancements and contributions.
+- 🛰️ **3D Interactive Visualization** – Simulate space trajectories, and manipulate orbits in real-time.
+- 📡 **Real Satellite Data** – Access a full database of Two-Line Element (TLE) satellite data, updated daily.
+- 📈 **Numerical Orbit Analysis** – Compute and visualize orbital parameters, ground tracks, and more.
+- 🧩 **Extensible** – Built for the community, with room for enhancements and contributions.
 
-## Prerequisites
+## 🌐 Prerequisites
 Zerua is an online web-based tool. Users only need a modern web browser to access and use the tool—no installation or additional software required.
 
-## Orbit Simulation
+## 🚀 Orbit Simulation
 
 **ZERUA** repository is the official GitHub home of [ZERUA](https://www.zerua.space), where we merge **astrodynamics**, **AI**, and **evolutionary computation** to push the boundaries of spacecraft trajectory optimization and simulation. This repository hosts a range of simulations related to space engineering and orbital mechanics. Our systems are built for both scientific exploration and educational dissemination.
 
@@ -36,17 +36,19 @@ Explore our growing library of **spacecraft transfer simulations** categorized b
 🔗 [YouTube channel](https://www.youtube.com/@zeruatech) in the  
 🎬 Playlist: **[Low-Thrust Space Trajectory Design and Optimization](https://www.youtube.com/playlist?list=PLJMfURpxHVVkWjTQBiavZLb4bVetN_96z)**
 
-## Contributing
-We welcome contributions! Join us in shaping the future of Zerua by contributing to either its Open-Source foundation or Premium Development, and help us push the boundaries of space simulation! To get started:
+## 🤝 Contributing
+We welcome contributions! Join us in shaping the future of Zerua by contributing to either its **Open-Source foundation** or **Premium Development**, and help us push the boundaries of space simulation!  
+To get started:  
 Check out our [CONTRIBUTING](CONTRIBUTING.md) for more details.
 
-## Community & Support
-- Visit our website: [www.zerua.space](https://www.zerua.space)
-- Join discussions on GitHub Issues
-- Follow us on social media (links to be added)
+## 🌍 Community & Support
+- 🔗 Visit our website: [www.zerua.space](https://www.zerua.space)
+- 💬 Join discussions on GitHub Issues
+- 📣 Follow us on social media (links to be added)
 
-## License
+## 📄 License
 Zerua follows a **dual-license model**:
+
 - The **core features** are open-source under the [Apache 2.0 License](LICENSE).
 - The **premium features** require a **commercial subscription**.  
 
