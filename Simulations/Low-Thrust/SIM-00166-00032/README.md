@@ -14,7 +14,7 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 
 ---
 
-<table width="100%"><tr><td colspan="2" width="100%"><img src="./prev_sim.jpg" with="100%"></td></tr><tr><td width="50%"><img src="./prev_orb.jpg" with="100%"></td><td width="50%"><img src="./prev_sat.jpg" with="100%"></td></tr></table>
+<table width="100%" border="0"><tr><td colspan="2" width="100%"><img src="./prev_sim.jpg" with="100%"></td></tr><tr><td width="50%"><img src="./prev_orb.jpg" with="100%"></td><td width="50%"><img src="./prev_sat.jpg" with="100%"></td></tr></table>
 
 ---
 
