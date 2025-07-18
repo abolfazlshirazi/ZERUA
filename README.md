@@ -7,7 +7,7 @@
 
 Zerua is a web-based space simulator for modeling satellite orbits and trajectories. It provides interactive 3D visualizations, real-world satellite data, and advanced orbital mechanics tools—all within an intuitive interface. 
 
-<img src="./Assets/zerua-splash.png" width="100%">
+<img src="./Assets/zerua-vis.png" width="100%">
 
 ## ✨ Features
 
