@@ -18,7 +18,7 @@ This simulation showcases an advanced low-thrust trajectory optimized for except
 
 ---
 
-🎥 **Watch the simulation video on YouTube: [Minimum-Fuel Low-Trust Space Trajectory Optimization](https://www.youtube.com/watch?v=A-b14RdmXxo))**  
+🎥 **Watch the simulation video on YouTube: [Minimum-Fuel Low-Trust Space Trajectory Optimization](https://www.youtube.com/watch?v=A-b14RdmXxo)**  
 📦 Supplementary materials and code are included in this folder.
 
 ---
