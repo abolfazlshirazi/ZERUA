@@ -30,8 +30,6 @@ Each subfolder (e.g., `SIM-00166-00032`) includes:
 - **Accuracy:** Target orbits are reached with high precision  
 - **Video Specs:** 1080p, 60fps, clean overlays, and multiple views  
 
-We currently have **1000+ solved cases** and plan to publish one every week — building a library of **17 years of spacecraft trajectory videos**.
-
 ---
 
 📌 Stay tuned as we continue to expand the Zerua platform with more simulation categories, datasets, and new research tools.
