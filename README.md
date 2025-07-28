@@ -48,7 +48,7 @@ Check out our [CONTRIBUTING](CONTRIBUTING.md) for more details.
 ## 🌍 Community & Support
 - 🔗 Visit our website: [www.zerua.space](https://www.zerua.space)
 - 💬 Join discussions on GitHub Issues
-- 📣 Follow us on social media (links to be added)
+- 📣 Follow us on social media
 
 ## 📄 License
 Zerua follows a **dual-license model**:
