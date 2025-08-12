@@ -1,10 +1,10 @@
-# Immersive 3D Visualization of Low-Thrust Orbital Maneuver
+# Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver
 
 **Case ID:** `SIM-00441-00273`  
 **Algorithm:** `REDA`  
 **Concept:** `Visualization and Simulation Quality`  
 
-Experience a detailed low-thrust orbital transfer simulation with high-quality 3D visuals and smooth motion. Multiple camera views showcase the spacecraft, trajectory, and orbital evolution in real time. Comprehensive plots present position, velocity, and orbital elements with clarity. Supplementary materials and tools can be found on the ZERUA platform and GitHub page.
+Experience a detailed low-thrust orbital transfer simulation with high-quality 3D visuals and smooth motion. Multiple camera views showcase the spacecraft, trajectory, and orbital evolution in real time. Comprehensive plots present position, velocity, and modified equinoctial orbital elements with clarity. Supplementary materials and tools can be found on the ZERUA platform and GitHub page.
 
 ✨ Key highlights:
 - High-quality 3D visuals and smooth rendering  
@@ -18,7 +18,7 @@ Experience a detailed low-thrust orbital transfer simulation with high-quality 3
 
 ---
 
-🎥 **Watch the simulation video on YouTube: [Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=YjJXmitQ8MQ)**  
+🎥 **Watch the simulation video on YouTube: [Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=YjJXmitQ8MQ)**  
 📦 Supplementary materials and code are included in this folder.
 
 ---
