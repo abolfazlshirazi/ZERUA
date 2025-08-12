@@ -18,7 +18,7 @@ Experience a detailed low-thrust orbital transfer simulation with high-quality 3
 
 ---
 
-🎥 **Watch the simulation video on YouTube: [Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=YjJXmitQ8MQ)**  
+🎥 **Watch the simulation video on YouTube: [Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=)**  
 📦 Supplementary materials and code are included in this folder.
 
 ---
@@ -33,11 +33,11 @@ Experience a detailed low-thrust orbital transfer simulation with high-quality 3
 ---
 
 ## 🏷 Tags
-`Zerua` · `Zerua Tech` · `space visualization` · `3D space simulation` · `low-thrust maneuver` · `orbital transfer` · `spacecraft trajectory` · `space engineering` · `orbital mechanics` · `simulation quality`
+`Zerua` · `Zerua Tech` · `space visualization` · `3D space simulation` · `low-thrust maneuver` · `orbital transfer` · `spacecraft trajectory` · `space engineering` · `orbital mechanics` · `simulation quality` · `modified equinoctial elements`
 
 ---
 
-> #zerua #zeruatech #lowthrusttrajectoryoptimization #spacevisualization #3Dsimulation
+> #zerua #zeruatech #lowthrusttrajectoryoptimization #spacevisualization #modifiedequinoctialelements
 
 ### 📱 Follow Us
 - [LinkedIn](https://www.linkedin.com/company/zeruatech)  
