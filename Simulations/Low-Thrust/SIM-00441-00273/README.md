@@ -18,7 +18,7 @@ Experience a detailed low-thrust orbital transfer simulation with high-quality 3
 
 ---
 
-🎥 **Watch the simulation video on YouTube: [Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=)**  
+🎥 **Watch the simulation video on YouTube: [Modified Equinoctial Elements in an Immersive 3D Visualization of Low-Thrust Orbital Maneuver](https://www.youtube.com/watch?v=YjJXmitQ8MQ=)**  
 📦 Supplementary materials and code are included in this folder.
 
 ---
